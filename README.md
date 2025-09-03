@@ -7,7 +7,6 @@ commits usam a regra do https://www.conventionalcommits.org/en/v1.0.0/
 Branches de funcionaldiades
 * feat/func-a
 * feat/func-b
-* feat/func-c
 * feat/func-d
 
 Branches de bugs
